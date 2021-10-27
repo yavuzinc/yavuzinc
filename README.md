@@ -2,7 +2,7 @@
 - 👀 I’m interested in building interactive web apps and solving coding challenges
 - 🌱 I’m currently learning web development with JavaScript, HTML, CSS, Node, Bootstrap
 - 💞️ I’m looking to collaborate on fundamentals.
-- 📫 How to reach me yavuzincedalca@gmail.com
+- 📫 How to reach me yavuzincedalca@gmail.com and yavuzincedal.com
 
 <!---
 yavuzinc/yavuzinc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
